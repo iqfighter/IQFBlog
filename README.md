@@ -1,2 +1,2 @@
-# IQFBlog
-IQF Team Blog
+# IQFighter Blog
+IQFighter Team
